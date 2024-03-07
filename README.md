@@ -17,3 +17,5 @@ Abra seu navegador e acesse http://localhost:3000 para visualizar o aplicativo.
 Este projeto foi criado como parte de um exercício de prática em React junto ao freeCodeCamp. A biblioteca Marked.js é usada para a conversão de Markdown para HTML.
 
 https://codepen.io/pedroAugtIn/pen/abxvjgB?editors=1010
+
+![image](https://github.com/pedroAugtIn/Markdown-Previewer/assets/158518938/721db931-70b4-4d7d-9123-f09d9564a616)
